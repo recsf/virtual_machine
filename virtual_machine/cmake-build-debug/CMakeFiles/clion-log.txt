@@ -1,0 +1,4 @@
+/home/developer/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/developer/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/bin/ninja/linux/ninja -G Ninja -S "/home/developer/Documents/cloud computing/virtual_machine" -B "/home/developer/Documents/cloud computing/virtual_machine/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/developer/Documents/cloud computing/virtual_machine/cmake-build-debug

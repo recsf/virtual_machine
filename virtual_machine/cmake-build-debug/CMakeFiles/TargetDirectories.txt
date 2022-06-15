@@ -1,0 +1,3 @@
+/home/developer/Documents/cloud computing/virtual_machine/cmake-build-debug/CMakeFiles/virtual_machine.dir
+/home/developer/Documents/cloud computing/virtual_machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/developer/Documents/cloud computing/virtual_machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
